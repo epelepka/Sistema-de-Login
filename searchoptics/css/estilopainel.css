@@ -1,0 +1,11 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  background-image: url("../image/background.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  font-family: Helvetica, sans-serif;
+  color: white;
+  text-align: center;
+}
